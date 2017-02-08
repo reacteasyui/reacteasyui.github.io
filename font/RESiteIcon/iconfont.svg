@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg">
 <metadata>
-Created by FontForge 20120731 at Mon Feb  6 11:32:44 2017
+Created by FontForge 20120731 at Wed Feb  8 15:14:30 2017
  By admin
 </metadata>
 <defs>
@@ -43,6 +43,6 @@ h410v-728z" />
     <glyph glyph-name="towards-up" unicode="&#xe634;" 
 d="M138 -80q-16 -11 -21.5 -6t1.5 22l376 902q7 18 17.5 18t17.5 -17l391 -905q8 -17 2 -22t-22 5l-365 227q-16 10 -38 9t-38 -11l-321 -222v0z" />
     <glyph glyph-name="point-right" unicode="&#xe61f;" 
-d="M348 -8l396 395l-396 396l-47 -48l348 -348l-348 -347z" />
+d="M337 -34l422 422l-422 421l-50 -50l371 -371l-371 -371z" />
   </font>
 </defs></svg>
