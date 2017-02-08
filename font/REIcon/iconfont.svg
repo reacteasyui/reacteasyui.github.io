@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg">
 <metadata>
-Created by FontForge 20120731 at Wed Feb  8 15:14:58 2017
+Created by FontForge 20120731 at Mon Feb  6 11:31:46 2017
  By admin
 </metadata>
 <defs>
@@ -39,9 +39,9 @@ t9.5 -10.5t21.5 -4h37h67h81h80h64h36q23 0 34 12t2 38q-5 13 -9.5 30.5t-9.5 34.5q-
 d="M950 -12l-270 272q81 96 81 222q0 95 -46.5 175t-127 126.5t-175 46.5t-174.5 -46.5t-126.5 -126.5t-46.5 -174.5t46.5 -174.5t126.5 -126.5t175 -46.5q130 0 228 85l270 -272q8 -8 19.5 -8t19.5 8.5t8 20t-8 19.5v0zM413 190q-121 0 -207 85.5t-86 207t86 207t207 85.5
 t206.5 -85.5t85.5 -207t-85.5 -207t-206.5 -85.5z" />
     <glyph glyph-name="point-left" unicode="&#xe62e;" 
-d="M696 811l-422 -422l422 -421l50 50l-371 371l371 371z" />
+d="M684 784l-395 -395l395 -395l48 47l-348 348l348 348z" />
     <glyph glyph-name="point-right" unicode="&#xe61f;" 
-d="M337 -34l422 422l-422 421l-50 -50l371 -371l-371 -371z" />
+d="M348 -8l396 395l-396 396l-47 -48l348 -348l-348 -347z" />
     <glyph glyph-name="triangle-down" unicode="&#xe616;" 
 d="M879 595l-379 -456l-379 456h758z" />
     <glyph glyph-name="checked" unicode="&#xe641;" 
